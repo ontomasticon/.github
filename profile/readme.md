@@ -1,2 +1,2 @@
 # Department of Information Retrieval
-Organising knowledge
+Organising data, rerieving intelligence. 
